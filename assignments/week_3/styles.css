@@ -1,0 +1,58 @@
+/*
+CSS:cascading styles sheets
+
+    CSS parts:
+    selectors
+    Rules: property&value
+*/
+
+body{
+    background-color:#FFCC99;
+}
+/*
+p {
+    color:rgb(29, 29, 3);
+    font-size:30;
+}
+*/
+
+/*this is corresponded with id*/
+#firstDiv {
+    background-color: grey;
+    font-size:30;
+}
+
+#pizza {
+    background-color: hotpink;
+    margin:10px;
+}
+
+.box {
+    width:266px;
+    height:290px;
+    background-color: brown;
+    border-style: solid;
+    border-width: 5px;
+    border-color:purple;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 25px;
+    padding-left:12px;
+    padding-right: 12px;
+    /*padding-top:100px; border width, padding, height need to be count into weidth and height*/
+}
+
+#special-paragraph {
+    font-size: 12px;
+    font-family:"Georgia";
+    color:purple;
+    text-decoration:overline underline;
+    font-weight: bold; /*700 or normal(default weight)*/
+    font-style:italic;
+    line-height:48px;
+    direction:rtl;/*right to left*/
+    unicode-bidi: bidi-override;
+    text-align: center;/*justify*/
+
+}
