@@ -1,0 +1,37 @@
+#first {
+    width:100px;
+    height:200px;
+
+}
+
+#second {
+    width:200px;
+    height:200px;
+}
+
+#third {
+    width:400px;
+    height:400px;
+}
+
+.green {
+    background-color: green;
+    border: solid 10px darkgreen;
+}
+
+.red {
+    background-color: red;
+
+}
+
+.blue {
+    background-color:purple;
+    background-color: inherit;/*heritage from parent element*/
+    background-color: blue;
+}
+
+/*order of specifictity:
+element selectors < Class selectors < ID selectors*/
+
+
+
