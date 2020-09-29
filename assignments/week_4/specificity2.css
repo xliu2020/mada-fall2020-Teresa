@@ -1,0 +1,36 @@
+
+div{
+    width:200px;
+    height:200px;
+    background-color:green;
+}
+footer {
+    width:400px;
+    height:400px;
+    background-color:blue;
+}
+
+div a {
+    color:red;
+}
+
+div>div> p a{
+    color:greenyellow;
+}
+
+.bold {
+    text-decoration:overline;
+}
+a.bold{
+    font-weight:bold;
+}
+
+
+
+p#special-text {
+
+}
+
+p #special-text{
+
+}

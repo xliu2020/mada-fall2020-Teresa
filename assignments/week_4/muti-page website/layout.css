@@ -1,0 +1,116 @@
+/* Normally we would have a parent div holding #header, #main, and #footer so we can apply margin-left and margin-right to this parent div instead of every div on the webpage.*/
+
+#container {
+    margin-left:auto;
+    margin-right:auto;
+    width:700px;
+}
+
+
+#home h1, #home p {
+    color:green;
+
+}
+#about h1,#about h2, #about p{
+    color:fuchsia;
+
+}
+
+
+#container header nav {
+    padding-top:157px;
+}
+
+/*cover position for this section*/
+#container header nav ul {
+   
+    padding-left:0;
+    width:450px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0; 
+    margin-bottom:0;
+
+
+}
+#container header nav ul li {
+    display:inline-block;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+#container header nav ul li a {
+    font-family:arial;
+    line-height:40px;
+    display:inline-block;
+    height:40px;
+    padding-left:10px;
+    padding-right:10px;
+    color:white;
+    text-decoration:none;
+}
+
+
+header{
+   
+    height:200px;
+    background-color: blanchedalmond;
+}
+
+main {
+    
+    background-color: lightgrey;
+    padding: 20px;
+    vertical-align: middle;
+
+}
+
+footer {
+    
+    height:50px;
+    background-color: lightsteelblue;
+}
+
+footer p {
+    text-align:center;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+#sidebar {
+    width:150px;
+    height:1000px;
+    background-color: mediumpurple;
+    display:inline-block;
+    
+}
+
+
+#article {
+    width:468px;/* takes into consideration padding and border size, should total 510px */
+    height:958px;/* takes into consideration padding and border size, should total 1000px */
+    background-color: orange;
+    display: inline-block;
+    vertical-align:top;
+    border:1px solid red;
+    padding:20px;
+    /* shorthand for border-width, border-style, and border-color;*/
+
+}
+
+.gallery{
+    width:77px;
+    height:200px;
+    background-color: silver;
+    display: inline-block;
+    padding:10px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 20px;
+}
+
+.gallery-cotainer {
+line-height: 0px;
+}
+
+
+
