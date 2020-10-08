@@ -1,0 +1,111 @@
+Colors:
+
+header text----white
+
+body text------steel blue
+
+link text1------medium orchid
+
+link text2------ghost white
+
+background ----light blue
+
+body-----------ghost white(to show text color)
+
+
+
+Contents:
+
+HOMEPAGE(ABOUT ME)
+
+Hi! I am Xiaoying Liu. You can call me Teresa. 
+Since I graduated form college last year, I have been looking for a path that enables me to struggle in San Francisco and I know what I need to do is to master language skill and professional skill. I used to work in ecommerce trading field to see how does an ecommercial business run. I also used to work in a restuarant to learn how to communicate with others. Now I am on my way to explore and master skills that required to become a web front-end developer or back-end developer. I think my decision won't come out until the back-end class end. 
+On the other hand, I also enjoy visual digital design and like to create something new. In this portfolio, I will represent what I've learned and accomplished by Photoshop.Aiming to let people know how charming visual design can be, I am glad to bring out creative and interesting work to the public. 
+
+Go To My Projects
+
+
+MY PROJECTS
+
+In this portfolio, I am going to showcase my 2 projects accomplished by Photoshop.Maybe they are not perfect enough, but they are the proof of my evolving Photoshop skill.
+(image)Go to Project 1---Brickwall
+(image)Go to Project 2---Room
+
+PROJECT 1
+
+(image)I try to appeal something very rock in this work.The spray of water brings the work dynamic and moving elements and the upside down colorful boy who splash the water, is a indispensible part of the work. 
+
+(image)The main skill I use: selection tool, color adjustment layers, gradient layers, blending mode, transform tool
+
+PROJECT 2
+
+Doesn't it seems like the scene that happen in horror game or detective game? That's what I want! the color tints based on red and black,plus the week light color create the horror atmosphere. 
+
+The main skill I use: selection tool, color adjustment layers, masking layers, gradient layers
+
+CONTACT
+
+I am glad to create something interesting with you...
+liuxiaoying200@gmail.com
+415-425-6235
+(form for reader to leave contact information )
+
+
+
+
+
+
+Example portfolio websites；
+
+https://weareadaptable.com/
+
+Likes:
+
+1 easy to navigate and all the contents are findable.
+
+2 The design is simple but modern. As a portfolio for marketing, you can always see the contact form under every webpage, which I think it's a smart design. 
+
+3 it needs a lot of words to describe the detail about them. but everything is well organized and I feel comfortable about that.
+
+Dislike:
+
+1 the color scheme of this portfolio is black, ghost white and purple. However, I personally think purple is not harmonius with other colors, especially when the portfolio is informational, which may cause eyes' fatigue.
+
+2 it would be better if the work has category.
+
+
+https://www.derekboateng.com/
+
+Likes:
+
+1 very straight-forward and you can quickly see the how every part of the homepage works.
+
+2 the portfolio have emphysis the work, which I think is the main part of the portfolio.
+
+3 When you click on one link in Work, a big photo, which shows the main concept of the work, has cover the whole screen without too much words, leaving a deep impression for me.
+
+Disklikes:
+1 fairly not easy to navigate.When you click on the link in homepage, you have to click the logo back to the homepage then view the next.
+
+2 A lot of things need to be improved in design for homepage.
+
+https://hangar.co/projects
+
+Likes:
+
+1 The overall look and feel is elegant. It is dynamic and the contents are well organized.
+
+2 The style of the way that Words and images are organized as ladders instead of united squares is interesting.
+
+3 Easy to figure out what they want to express and find the information that the readers need.
+
+Dislikes:
+
+1 It's hard to find the menu icon.The image of header is always changing.When the image has a dark color, the menu icon sometimes it's hard to be recognized.
+
+2 In the body part,some words have overflowed and break the balance between words and images.
+ 
+
+
+
+
