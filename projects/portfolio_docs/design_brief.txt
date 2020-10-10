@@ -48,8 +48,11 @@ CONTACT
 I am glad to create something interesting with you...
 liuxiaoying200@gmail.com
 415-425-6235
-(form for reader to leave contact information )
-
+(form)
+Name:
+Email:
+Phone Number:(optional)
+Message:
 
 
 
