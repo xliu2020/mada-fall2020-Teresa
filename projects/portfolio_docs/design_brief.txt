@@ -2,21 +2,28 @@ Colors:
 
 header text----white
 
+footer text----white
+
 body text------steel blue
 
 link text1------medium orchid
 
 link text2------ghost white
 
-background ----light blue
+background & header & footer ----light blue
 
 body-----------ghost white(to show text color)
 
 
 
+
 Contents:
 
-HOMEPAGE(ABOUT ME)
+HOMEPAGE
+
+HOMEPAGE
+
+Teresa My Projects  Contact
 
 Hi! I am Xiaoying Liu. You can call me Teresa. 
 Since I graduated form college last year, I have been looking for a path that enables me to struggle in San Francisco and I know what I need to do is to master language skill and professional skill. I used to work in ecommerce trading field to see how does an ecommercial business run. I also used to work in a restuarant to learn how to communicate with others. Now I am on my way to explore and master skills that required to become a web front-end developer or back-end developer. I think my decision won't come out until the back-end class end. 
@@ -24,18 +31,32 @@ On the other hand, I also enjoy visual digital design and like to create somethi
 
 Go To My Projects
 
+©copyright 2020 Xiaoying Liu
+
 
 MY PROJECTS
+
+MY PROJECTS
+
+Teresa  My Projects  Contact
 
 In this portfolio, I am going to showcase my 2 projects accomplished by Photoshop.Maybe they are not perfect enough, but they are the proof of my evolving Photoshop skill.
 (image)Go to Project 1---Brickwall
 (image)Go to Project 2---Room
 
+©copyright 2020 Xiaoying Liu
+
+
 PROJECT 1
+
+Project1
 
 (image)I try to appeal something very rock in this work.The spray of water brings the work dynamic and moving elements and the upside down colorful boy who splash the water, is a indispensible part of the work. 
 
 (image)The main skill I use: selection tool, color adjustment layers, gradient layers, blending mode, transform tool
+
+©copyright 2020 Xiaoying Liu
+
 
 PROJECT 2
 
@@ -43,7 +64,13 @@ Doesn't it seems like the scene that happen in horror game or detective game? Th
 
 The main skill I use: selection tool, color adjustment layers, masking layers, gradient layers
 
+©copyright 2020 Xiaoying Liu
+
+
 CONTACT
+
+
+Teresa My Projects  Contact
 
 I am glad to create something interesting with you...
 liuxiaoying200@gmail.com
@@ -53,6 +80,9 @@ Name:
 Email:
 Phone Number:(optional)
 Message:
+
+
+©copyright 2020 Xiaoying Liu
 
 
 
