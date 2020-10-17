@@ -16,6 +16,8 @@ comment
 // String is a normal text
 "this is a really long sentence. !@#$%^&*()_+";
 "100";
+"To use single quotes ' and ' in the string, use double qoutes on the outside.";
+'To use double quotes " and " in the string, use single quotes on the outside.';
 
 // 'There's a nice day!' INCORRECT
 // "There's a nice day!" CORRECT
@@ -58,10 +60,14 @@ var myBox;
 
 myBox ="kitchen utensils";
 
+var secondVariable = "bathroom supplies";
+
+myBox = "books";
+
 console.log(myBox);
 
 // mathematical operators
-// +,-,*,%
+// +,-,*,%,/
 
 var sum =2+4;
 var difference= 2-4;
@@ -69,7 +75,7 @@ var quotient= 2/4;
 var product= 2*4;
 var remainder= 2 % 4;
 
-console.log("The Quotient of 2 and 4v is" , quotient);
+console.log("The Quotient of 2 and 4 is" , quotient);
 console.log(remainder);
 
 // Logical Operator (compare 2 pieces of data)
@@ -78,6 +84,7 @@ console.log(remainder);
 var isItRaining = ture;
 
 isItRaining == true; //true
+
 var someNumber =100;
 
 someNumber ==50; //false
@@ -85,6 +92,24 @@ someNumber ==50; //false
 someNumber >= 50; //true
 
 someNumber < 50; //false
+
+
+"hello" == "hello"; //true
+"goodbye" == "hello"; //false
+"Hello" == "hello"; //false
+"hello " == "hello"; //false
+
+true == true; //true
+true == false; //false
+false == false; //true
+
+sum > product; //false
+
+
+// If Statement, is to run code based on existing data.
+//If    this is true      then run this
+//if        ()                 {}
+
 
 var personAge = 21
 
@@ -117,5 +142,20 @@ function myFirstFunction() {
 myFirstFunction();
 myFirstFunction();
 myFirstFunction();
+
+nonExistingVariable;
+
+
+// Practice creating the following:
+/*
+
+Variables
+Datatypes
+If Statements
+Logical Comparison
+Functions
+
+*/
+
 
 

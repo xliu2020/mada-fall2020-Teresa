@@ -37,3 +37,22 @@ function addExclamation(message) {
 addExclamation("Hello how are you");
 addExclamation("It is raining");
 addExclamation("Goodbye"); 
+
+//
+
+
+var userName = "Cat";
+
+//Concatenation
+var completeSentence = "My name is " + userName;
+console.log(completeSentence);
+
+//Type Coercion
+console.log("Hello" + 100);
+console.log("100"+ 100);
+console.log(100 + "100");
+
+var longString = "Hello there!" * 10;
+console.log(longString);
+
+

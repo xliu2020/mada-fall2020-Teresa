@@ -12,7 +12,7 @@ link text2------ghost white
 
 background & header & footer ----light blue
 
-body-----------ghost white(to show text color)
+body & form color-----------ghost white(to show text color)
 
 
 
@@ -53,14 +53,14 @@ Project1
 
 (image)I try to appeal something very rock in this work.The spray of water brings the work dynamic and moving elements and the upside down colorful boy who splash the water, is a indispensible part of the work. 
 
-(image)The main skill I use: selection tool, color adjustment layers, gradient layers, blending mode, transform tool
+The main skill I use: selection tool, color adjustment layers, gradient layers, blending mode, transform tool
 
 ©copyright 2020 Xiaoying Liu
 
 
 PROJECT 2
 
-Doesn't it seems like the scene that happen in horror game or detective game? That's what I want! the color tints based on red and black,plus the week light color create the horror atmosphere. 
+（image）Doesn't it seems like the scene that happen in horror game or detective game? That's what I want! the color tints based on red and black,plus the week light color create the horror atmosphere. 
 
 The main skill I use: selection tool, color adjustment layers, masking layers, gradient layers
 
