@@ -10,15 +10,16 @@ h1 {
     text-shadow:3px 1px 6px black;
 }
 
-p {
-    color:steelblue ;
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 h2 {
     text-align: center;
     margin-top: 40px;
     color:white;
+}
+
+p {
+    color:steelblue ;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header { 
@@ -304,4 +305,11 @@ textarea {
 
 input[type=submit] {
     color:steelblue;
+}
+
+span.protectedEmail:before {
+    content: attr(title);
+}
+span.protectedNumber:before {
+    content: attr(title);
 }
